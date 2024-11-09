@@ -17,7 +17,7 @@
 		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 		<itunes:author>David Roderick</itunes:author>
 		<itunes:summary>An introduction to Political Economy</itunes:summary>
-		<itunes:type>episodic</itunes:type>
+		<itunes:type>serial</itunes:type>
 		<itunes:owner>
 			<itunes:name>David Roderick</itunes:name>
 			<itunes:email></itunes:email>
