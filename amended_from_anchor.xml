@@ -20,7 +20,7 @@
 		<itunes:type>serial</itunes:type>
 		<itunes:owner>
 			<itunes:name>David Roderick</itunes:name>
-			<itunes:email></itunes:email>
+			<itunes:email>battlaxe.firebrand@gmail.com</itunes:email>
 		</itunes:owner>
 		<itunes:explicit>No</itunes:explicit>
 		<itunes:category text="Government"/>
@@ -53,6 +53,7 @@
 			<itunes:duration>00:02:13</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42370241/42370241-1730691570198-3b9f08b0ca5e.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1</itunes:episode>
 		</item>
 		<item>
 			<title><![CDATA[Quotation from Edward Gibbon]]></title>
@@ -82,6 +83,7 @@
 			<itunes:duration>00:04:44</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42370241/42370241-1730691570198-3b9f08b0ca5e.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>2</itunes:episode>
 		</item>
 		<item>
 			<title><![CDATA[Letter to the reader]]></title>
@@ -111,6 +113,7 @@
 			<itunes:duration>00:02:59</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42370241/42370241-1730691570198-3b9f08b0ca5e.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>3</itunes:episode>
 		</item>
 		<item>
 			<title><![CDATA[Prologue]]></title>
@@ -140,6 +143,7 @@
 			<itunes:duration>00:03:17</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42370241/42370241-1730691570198-3b9f08b0ca5e.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>4</itunes:episode>
 		</item>
 		<item>
 			<title><![CDATA[A survey]]></title>
@@ -169,6 +173,7 @@
 			<itunes:duration>00:18:55</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42370241/42370241-1730691570198-3b9f08b0ca5e.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>5</itunes:episode>
 		</item>
 		<item>
 			<title><![CDATA[The Word as "Price"]]></title>
@@ -198,6 +203,7 @@
 			<itunes:duration>00:15:42</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42370241/42370241-1730691570198-3b9f08b0ca5e.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>6</itunes:episode>
 		</item>
 		<item>
 			<title><![CDATA[The Word as "Cost"]]></title>
@@ -227,6 +233,7 @@
 			<itunes:duration>00:14:20</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42370241/42370241-1730691570198-3b9f08b0ca5e.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>7</itunes:episode>
 		</item>
 		<item>
 			<title><![CDATA[The Word as "Worth"]]></title>
@@ -256,6 +263,7 @@
 			<itunes:duration>00:12:29</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42370241/42370241-1730691570198-3b9f08b0ca5e.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>8</itunes:episode>
 		</item>
 		<item>
 			<title><![CDATA[Debased, Clipt, Worn Coin.]]></title>
@@ -285,6 +293,7 @@
 			<itunes:duration>00:09:53</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42370241/42370241-1730691570198-3b9f08b0ca5e.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>9</itunes:episode>
 		</item>
 		<item>
 			<title><![CDATA[Merchant Bills]]></title>
@@ -314,6 +323,7 @@
 			<itunes:duration>00:14:42</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42370241/42370241-1730691570198-3b9f08b0ca5e.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>10</itunes:episode>
 		</item>
 		<item>
 			<title><![CDATA[Bank Money]]></title>
@@ -343,6 +353,7 @@
 			<itunes:duration>00:23:54</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42370241/42370241-1730691570198-3b9f08b0ca5e.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>11</itunes:episode>
 		</item>
 		<item>
 			<title><![CDATA[An Agio]]></title>
@@ -372,6 +383,7 @@
 			<itunes:duration>00:11:55</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42370241/42370241-1730691570198-3b9f08b0ca5e.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>12</itunes:episode>
 		</item>
 		<item>
 			<title><![CDATA[Warehouse Rent]]></title>
@@ -401,6 +413,7 @@
 			<itunes:duration>00:15:47</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42370241/42370241-1730691570198-3b9f08b0ca5e.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>13</itunes:episode>
 		</item>
 		<item>
 			<title><![CDATA[The King of France]]></title>
@@ -430,6 +443,7 @@
 			<itunes:duration>00:04:52</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42370241/42370241-1730691570198-3b9f08b0ca5e.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>14</itunes:episode>
 		</item>
 		<item>
 			<title><![CDATA[Promissory notes (which are paper money), and Commercial Banks.]]></title>
@@ -459,6 +473,7 @@
 			<itunes:duration>00:22:34</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42370241/42370241-1730691570198-3b9f08b0ca5e.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>15</itunes:episode>
 		</item>
 		<item>
 			<title><![CDATA[Money, the Great Wheel of Circulation.]]></title>
@@ -488,6 +503,7 @@
 			<itunes:duration>00:27:54</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42370241/42370241-1730691570198-3b9f08b0ca5e.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>16</itunes:episode>
 		</item>
 		<item>
 			<title><![CDATA[Hammers and Timber]]></title>
@@ -517,6 +533,7 @@
 			<itunes:duration>00:25:35</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42370241/42370241-1730691570198-3b9f08b0ca5e.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>17</itunes:episode>
 		</item>
 		<item>
 			<title><![CDATA[The Amount of Metal Pieces]]></title>
@@ -546,6 +563,7 @@
 			<itunes:duration>00:24:17</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42370241/42370241-1730691570198-3b9f08b0ca5e.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>18</itunes:episode>
 		</item>
 		<item>
 			<title><![CDATA[The Scotch Banks]]></title>
@@ -575,6 +593,7 @@
 			<itunes:duration>00:22:12</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42370241/42370241-1730691570198-3b9f08b0ca5e.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>19</itunes:episode>
 		</item>
 		<item>
 			<title><![CDATA[The Amazonian Rainforest and the Balance of Trade.]]></title>
@@ -604,6 +623,7 @@
 			<itunes:duration>00:23:31</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42370241/42370241-1730691570198-3b9f08b0ca5e.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>20</itunes:episode>
 		</item>
 		<item>
 			<title><![CDATA[An Uneven Par within the Balance of Trade.]]></title>
@@ -633,6 +653,7 @@
 			<itunes:duration>00:18:29</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42370241/42370241-1730691570198-3b9f08b0ca5e.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>21</itunes:episode>
 		</item>
 		<item>
 			<title><![CDATA[Epilogue]]></title>
@@ -662,6 +683,7 @@
 			<itunes:duration>00:20:35</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42370241/42370241-1730691570198-3b9f08b0ca5e.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>22</itunes:episode>
 		</item>
 	</channel>
 </rss>
