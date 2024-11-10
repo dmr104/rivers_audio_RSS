@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" type="application/rss+xml" xmlns:anchor="https://anchor.fm/xmlns">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version ="2.0" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:anchor="https://anchor.fm/xmlns">
 	<channel>
 		<title><![CDATA[Rivers of Imprisonment]]></title>
 		<description><![CDATA[An introduction to Political Economy]]></description>
@@ -23,7 +23,7 @@
 			<itunes:name>David Roderick</itunes:name>
 			<itunes:email>battlaxe.firebrand@gmail.com</itunes:email>
 		</itunes:owner>
-		<itunes:explicit>false</itunes:explicit>
+		<itunes:explicit>clean</itunes:explicit>
 		<itunes:category text="Government"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42370241/42370241-1730691570198-3b9f08b0ca5e.jpg"/>
 		<item>
